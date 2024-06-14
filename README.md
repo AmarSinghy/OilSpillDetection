@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project was developed as part of an internship at Shell India Markets Private Limited (May 2023 - July 2023). The primary goal was to create an innovative oil spill detection algorithm utilizing deep learning methodologies, particularly convolutional neural networks (CNNs), to analyze RGB images for accurate detection and assessment of oil spills in marine environments.
+ The primary goal was to create an innovative oil spill detection algorithm utilizing deep learning methodologies, particularly convolutional neural networks (CNNs), to analyze RGB images for accurate detection and assessment of oil spills in marine environments.
 
 ## Features
 
